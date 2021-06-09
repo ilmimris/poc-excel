@@ -3,7 +3,7 @@ package read_test
 import (
 	"testing"
 
-	read "github.com/ilmimris/poc-excel/read"
+	read "github.com/ilmimris/poc-excel"
 )
 
 func BenchmarkMethodA(b *testing.B) {
