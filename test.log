@@ -1,0 +1,6 @@
+❯ go run main.go -iter 1
+func 1)       74.364032286 detik
+func 2)       73.50135998 detik
+❯ go run main.go -iter 5
+func 1)       364.563652776 detik
+func 2)       371.208715156 detik
